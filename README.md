@@ -15,7 +15,7 @@ on:
 * Our database sequence
 
 > Our Website:
-* https://bio-stock.000webhostapp.com/Services/services.php
+* https://bio-stock.000webhostapp.com/
 
  ## Credits [EngMohamadIdrees](https://github.com/EngMohamadIdrees) -[Tarek Idrees](https://github.com/TarekIdrees) - [Mohamed Mahmoud](https://github.com/Thesnak)
 
